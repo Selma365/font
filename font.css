@@ -1,0 +1,168 @@
+body{
+  background-color: white;
+  font-family: 'Raleway', sans-serif;
+  margin: 0px;
+  padding: 0px;
+  height: 50px;
+}
+
+
+
+ .colors{
+  background: white;
+  background-size: cover;
+  background-position: bottom center;
+  height: 200px;
+  width: 50%;
+  border: 2px solid Grey;
+ 
+}
+
+ .colors ul {
+  margin: 10;
+  padding: 0;
+  text-align: center;
+}
+
+ 
+ .colors li {
+  font-weight: 100;
+  letter-spacing: 2px;
+  padding: 20px;
+  display: inline-block;
+}
+
+ .fonts{
+  background: white;
+  background-size: cover;
+  background-position: bottom center;
+  height: 500px;
+  width: 50%;
+  border: 2px solid Grey;
+  
+}
+
+ .fonts ul {
+  margin: 5;
+  padding: 0;
+  text-align: inline;
+ 
+}
+
+ .fonts li {
+  font-weight: 100;
+  letter-spacing: 2px;
+  padding: 10px; 
+  
+}
+
+.fonts p{
+  font-size: 15px;
+  font-family: Georgia;
+   
+}
+
+.colors .blue{
+  color:white;
+  background: #2d5dcc;
+  height: 40px;
+  width: 120px;
+}
+.fonts .source {
+  color: black;
+  background: lightgrey;
+  height: 100px;
+  width: 320px;
+    background: grey;
+}
+.fonts .nunito {
+  margin-top: 10px;
+  color: black;
+  background: lightgrey;
+  height: 100px;
+  width: 320px;
+  background: red;
+}
+.fonts .popins {
+  margin-top: 10px;
+  color: black;
+  background: lightgrey;
+  height: 100px;
+  width: 320px;
+  background: lightgreen;
+}
+.colors .pink, .green , .beige{
+  color:black;
+  height: 40px;
+  width: 120px;
+  
+}
+.colors .pink{background: #d957d9;
+ }
+.colors .green{background: #4fe0b0;
+  }
+.colors .beige{
+  background: #efd9ca;
+    margin-right: 330px;
+    margin-top: 5px;
+  }
+
+
+p{
+   text-align: left;
+  
+}
+.italic{
+  font-weight: normal;
+  font-style: italic;
+}
+.bold{
+  font-style: bold;
+  font-weight: 900;
+}
+.nunito{
+  font-family:nunito;
+}
+.popins{
+  font-family:poppins;
+}
+
+h1 {
+  color: black;
+  font-size: 25px;
+  font-weight: 600;
+  text-align: left;
+  
+}
+.header{
+  font-weight: 700;
+  font-size: 26px;
+  font-family: Nunito Sans;
+}
+
+h2 {
+  color: black;
+  font-size: 15px;
+  font-weight: 600;
+  text-align: left;
+}
+ .naslov {
+   color: black;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: left;
+}
+.header {
+   color: black;
+  font-size: 10px;
+  font-weight: 600;
+  text-align: left;
+ 
+}
+
+.naslov2{
+  font-weight: 500;
+font-size: 18px;
+font-family: poppins;
+
+}
